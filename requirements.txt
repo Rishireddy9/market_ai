@@ -1,0 +1,5 @@
+# Historical-data, API, and paper-trading prototype dependencies.
+pandas>=2.0
+yfinance>=0.2.40
+fastapi>=0.110
+uvicorn>=0.29
